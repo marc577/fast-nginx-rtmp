@@ -4,9 +4,9 @@ A Dockerfile installing NGINX, nginx-rtmp-module from source. Built on Alpine Li
 * Nginx 1.17.10 (Latest version compiled from source)
 * nginx-rtmp-module 1.2.1 (compiled from source)
 
-[![Docker Stars](https://img.shields.io/docker/stars/alfg/nginx-rtmp.svg)](https://hub.docker.com/r/marc577/fast-nginx-rtmp/)
-[![Docker Pulls](https://img.shields.io/docker/pulls/alfg/nginx-rtmp.svg)](https://hub.docker.com/r/marc577/fast-nginx-rtmp/)
-[![Docker Automated build](https://img.shields.io/docker/automated/alfg/nginx-rtmp.svg)](https://hub.docker.com/r/marc577/fast-nginx-rtmp/builds/)
+[![Docker Stars](https://img.shields.io/docker/stars/marc577/fast-nginx-rtmp.svg)](https://hub.docker.com/r/marc577/fast-nginx-rtmp/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/marc577/fast-nginx-rtmp.svg)](https://hub.docker.com/r/marc577/fast-nginx-rtmp/)
+[![Docker Automated build](https://img.shields.io/docker/automated/marc577/fast-nginx-rtmp.svg)](https://hub.docker.com/r/marc577/fast-nginx-rtmp/builds/)
 
 ## Usage
 
