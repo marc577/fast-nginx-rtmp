@@ -1,0 +1,9 @@
+version: '1'
+
+services:
+  nginx-rtmp:
+    build: .
+    ports:
+      - 1935:1935
+    environment:
+      - RTMP_PORT=1935
